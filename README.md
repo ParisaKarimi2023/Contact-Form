@@ -1,1 +1,2 @@
-# Contact-Form
+# Contact Form with SMTP
+The Contact Form with SMTP project focuses on designing and implementing a web-based contact form that allows users to send messages directly to an administrator’s email address using the Simple Mail Transfer Protocol (SMTP). This project demonstrates how backend email services can be integrated with a web interface to enable reliable, secure, and automated communication between users and website owners.
